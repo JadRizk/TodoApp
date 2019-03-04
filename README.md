@@ -2,7 +2,7 @@
 
 This is a simple Todo application that uses MobX as state management. All the Todo's will be managed in MobX stores and saved in the asyncStorage for later access.
 
-![ScreenShot](https://github.com/JadRizk/TodoApp/blob/master/docs/assets/Screenshot-2.png)
+![ScreenShot](https://github.com/JadRizk/TodoApp/blob/master/docs/assets/Screenshot-2.png = 300x200)
 
 
 ## Getting Started
