@@ -1,5 +1,9 @@
 # Todo App
 
+https://img.shields.io/github/issues/JadRizk/TodoApp?style=plastic
+
+https://img.shields.io/github/license/JadRizk/TodoApp?style=plastic
+
 This is a simple Todo application that uses MobX as state management. All the Todo's will be managed in MobX stores and saved in the asyncStorage for later access.
 
 ![ScreenShot](https://github.com/JadRizk/TodoApp/blob/master/docs/assets/Screenshot-2.png)
